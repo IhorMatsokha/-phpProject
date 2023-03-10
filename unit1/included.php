@@ -1,6 +1,6 @@
 <?php
 {
     echo "<br>";
-    echo "Hello world!";
-    echo 1 + 2;
+    echo "Hello!";
+    echo 1 + 2 + 5;
 }
